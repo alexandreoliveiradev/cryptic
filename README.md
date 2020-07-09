@@ -20,7 +20,7 @@ Decrypting text:
 ![decrypt2](https://imgur.com/g2NKMSH.png)
 
 Mainly used to hide emails or other small sentences, with no specific intents. 
-The next version will be deployed in netlify with an actual frontend.
+The application is hosted at netlify so you can just click [here](https://cryptit.netlify.app).
 
 Thank you for visiting,
 
